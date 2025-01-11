@@ -7,7 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JenkinsDemoApplication {
+public class JenkinsDemoApplicatio {
 	private static final Logger logger = LoggerFactory.getLogger(JenkinsDemoApplication.class);
 
 	@PostConstruct
