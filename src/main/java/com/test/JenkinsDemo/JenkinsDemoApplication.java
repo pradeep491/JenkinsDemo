@@ -12,7 +12,7 @@ public class JenkinsDemoApplication {
 
 	@PostConstruct
 	public void init() {
-		logger.info("welcome to jenkins...!");
+		logger.info("welcome to jenkins pradeep...!");
 	}
 
 	public static void main(String[] args) {
